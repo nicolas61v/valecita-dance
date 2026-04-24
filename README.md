@@ -1,4 +1,4 @@
-# valecita-dane 💃
+# valecita-dane
 
 Juego de ritmo isométrico para 2 jugadores. Hecho con Phaser 4 + TypeScript + Vite.
 
